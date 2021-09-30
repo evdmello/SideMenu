@@ -1,4 +1,4 @@
 # SideMenu
 SideMenu using UIKit
 
-![alt text](./Screenshots/sidemenu-1.jpeg?raw=true "Menu" | height=200)
+<img src="./Screenshots/sidemenu-1.jpeg" height=200>
